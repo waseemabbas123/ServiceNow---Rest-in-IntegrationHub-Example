@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IPInfo" max_length="40" name="x_427908_ipinfo_sp_ipinfo" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element label="IP address" max_length="40" name="ip_address" type="string"/>
+        <element label="Latitude" max_length="40" name="latitude" type="string"/>
+        <element label="Longitude" max_length="40" name="longitude" type="string"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+    </element>
+</database>
